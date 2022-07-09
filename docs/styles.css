@@ -20,7 +20,7 @@ body {
 }
 
 #main_text {
-    width: 80vw;
+    width: 90vw;
     margin: auto;
     color: dimgrey;
     font-family: 'Merriweather', Times, serif;
@@ -47,6 +47,7 @@ cite #book {
     writing-mode: vertical-lr;
     text-orientation: upright;
     transform: rotate(-90deg);
+    margin-left: -30px;
     background-color: rgb(196, 244, 255);
     border: 2px solid rgb(188, 230, 240);
     color: black;
