@@ -68,7 +68,8 @@ cite #book {
 /* dark theme */
 
 body.dark {
-    background: #181A1B;
+    /* background: #181A1B; */
+    background: #070707;
 }
 
 body.dark #lit_quote em {
