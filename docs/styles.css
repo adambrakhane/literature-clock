@@ -58,6 +58,13 @@ cite #book {
 }
 
 
+/* When tab focus on toggle-theme, don't highlight */
+
+#toggle-theme:focus {
+    outline: none;
+}
+
+
 /* dark theme */
 
 body.dark {
